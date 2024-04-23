@@ -25,18 +25,39 @@ expertise."
 
 Tasks
 
-### HTML: User Story
+<!--
 
--[ ] Develop HTML structure for the homepage. 
--[ ] develope js to give a logical implementation.
+  There will be different types of tasks for each user story:
+    `type: components`
+    `type: css`
+    `type: logic`
+    `type: handlers`
+    ...
 
-### Interface: User Story
+-->
+   # Flight details with information.
+# HTML:
+- Begin by creating the basic structure of the website using HTML.
+- Define the layout, headings, paragraphs, and other structural elements required for each page.
+- Flight list
+- Flight details with flight Number, Name, Destination, Departure Date, Arrival Date, Origin and Stops
+- 
+# CSS:
+- Style the HTML elements using CSS to enhance the visual appearance of the website.
+- Implement a responsive design to ensure compatibility across different devices and screen sizes.
 
--[ ] Design a clean HTML structure for the header.
--[ ] Create visually appealing HTML elements to showcase key skills.
+- # Flight  list
+- Flight details information show in row using flex and grid, content-center.
 
-### Documentation: User Story
+#  Flight Image
+- As a user I want to see the image center with flight image.
 
--[ ] Document the HTML structure of the homepage. 
--[ ] Document the js to give a logical implementation. 
--[ ] Include any relevant information about the design choices in the project documentation.
+# Components:
+- Identify reusable components needed for the website, such as flight cards, search forms, filters, etc.
+- Develop these components using HTML, CSS, and JavaScript, ensuring modularity and reusability.
+
+
+# Feedback and Iteration:
+- Gather feedback from users and stakeholders to identify areas for improvement or additional features.
+- Plan for iterative updates and enhancements based on feedback and changing requirements.
+

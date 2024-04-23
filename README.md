@@ -20,7 +20,7 @@
 
 ## Screenshots
 
-![Example screenshot]()
+![Example screenshot](./assets/screenshort.jpg)
 
 ## Technologies
 
@@ -35,23 +35,20 @@ clone the repo and start using the stop watch.
 
 ## Code Examples
 
-```js
+const dom = {
+    parent: document.getElementById('parent'),
+};
 
-```
+export default dom;
 
 ## Features
 
 List of features ready and Todos for future development
 
--
--
--
+- Hero image
+- List of flight details
 
-To-do list:
-
--
--
 
 ## Status
 
-Project is: _in progress_
+Project is: done
