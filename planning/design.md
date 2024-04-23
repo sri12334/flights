@@ -13,10 +13,10 @@ effective communication with visitors.
 
 ### Design Choices
 
-- **Color Palette:** Employing a primary color of #696969 (dark) for a
+- **Color Palette:** Employing a primary color of #5a5353 for a
   professional and trustworthy feel, complemented by a secondary color of
   #beabc7 (dark) for contrast and emphasis.
-- **Background:** #000000 (Black)
+- **Background:** #5a5353 
 - **Fonts:** Utilizing Open Sans for main content, ensuring readability, and
   Lato for headings to add a touch of modernity.
 - **Layout:** Employing a flex-box layout for structure and organization, with
